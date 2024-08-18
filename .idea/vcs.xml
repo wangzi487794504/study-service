@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/study-base" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/study-parent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/study-content" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/study-content/study-content-model" vcs="Git" />
   </component>
 </project>
