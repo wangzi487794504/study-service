@@ -1,0 +1,108 @@
+2024-08-19 00:21:55,365 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field courseCategoryMapper in wang.zi.ji.student.service.impl.CourseCategoryServiceImpl required a bean of type 'wang.zi.ji.student.mapper.CourseCategoryMapper' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'wang.zi.ji.student.mapper.CourseCategoryMapper' in your configuration.
+
+2024-08-19 00:22:14,475 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field courseCategoryMapper in wang.zi.ji.student.service.impl.CourseCategoryServiceImpl required a bean of type 'wang.zi.ji.student.mapper.CourseCategoryMapper' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'wang.zi.ji.student.mapper.CourseCategoryMapper' in your configuration.
+
+2024-08-19 00:22:26,874 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field courseCategoryMapper in wang.zi.ji.student.service.impl.CourseCategoryServiceImpl required a bean of type 'wang.zi.ji.student.mapper.CourseCategoryMapper' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'wang.zi.ji.student.mapper.CourseCategoryMapper' in your configuration.
+
+2024-08-19 00:27:05,028 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field courseBaseInfoService in controller.wang.zi.jie.CourseBaseInfoController required a bean of type 'service.wang.zi.jie.studentapi.CourseBaseInfoService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'service.wang.zi.jie.studentapi.CourseBaseInfoService' in your configuration.
+
+2024-08-19 00:27:41,117 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field courseBaseInfoService in controller.wang.zi.jie.CourseBaseInfoController required a bean of type 'service.wang.zi.jie.studentapi.CourseBaseInfoService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'service.wang.zi.jie.studentapi.CourseBaseInfoService' in your configuration.
+
+2024-08-19 00:30:18,742 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field courseBaseInfoService in controller.wang.zi.jie.CourseBaseInfoController required a bean of type 'service.wang.zi.jie.studentapi.CourseBaseInfoService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'service.wang.zi.jie.studentapi.CourseBaseInfoService' in your configuration.
+

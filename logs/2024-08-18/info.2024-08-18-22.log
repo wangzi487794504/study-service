@@ -1,0 +1,70 @@
+2024-08-18 23:00:03,133 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 23:00:03,133 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 23:00:03,764 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 23:00:03,764 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 23:00:04,947 INFO [main][GenericScope.java:295] - BeanFactory id=a82af4a0-8800-3bcb-ad86-8f5aa515d5d9
+2024-08-18 23:00:04,947 INFO [main][GenericScope.java:295] - BeanFactory id=a82af4a0-8800-3bcb-ad86-8f5aa515d5d9
+2024-08-18 23:00:05,357 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 23:00:05,357 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 23:00:05,367 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:00:05,367 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:00:05,368 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 23:00:05,368 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 23:00:05,368 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 23:00:05,368 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 23:00:05,513 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 23:00:05,513 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 23:00:05,513 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1727 ms
+2024-08-18 23:00:05,513 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1727 ms
+2024-08-18 23:00:08,174 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-18 23:00:08,174 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-18 23:00:08,300 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:00:08,300 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:00:08,875 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:00:08,875 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:00:08,903 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-18 23:00:08,903 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-18 23:00:08,904 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-18 23:00:08,904 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-18 23:00:08,918 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-18 23:00:08,918 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-18 23:00:08,955 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-18 23:00:08,955 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-18 23:00:09,163 INFO [main][StartupInfoLogger.java:61] - Started wang.zi.jie.StudyContentApiApplication in 6.636 seconds (JVM running for 8.762)
+2024-08-18 23:00:09,163 INFO [main][StartupInfoLogger.java:61] - Started wang.zi.jie.StudyContentApiApplication in 6.636 seconds (JVM running for 8.762)
+2024-08-18 23:00:38,351 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:00:38,351 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:00:45,092 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 23:00:45,092 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 23:00:45,631 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 23:00:45,631 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 23:00:46,577 INFO [main][GenericScope.java:295] - BeanFactory id=a82af4a0-8800-3bcb-ad86-8f5aa515d5d9
+2024-08-18 23:00:46,577 INFO [main][GenericScope.java:295] - BeanFactory id=a82af4a0-8800-3bcb-ad86-8f5aa515d5d9
+2024-08-18 23:00:46,926 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 23:00:46,926 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 23:00:46,937 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:00:46,937 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:00:46,937 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 23:00:46,937 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 23:00:46,938 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 23:00:46,938 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 23:00:47,082 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 23:00:47,082 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 23:00:47,082 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1428 ms
+2024-08-18 23:00:47,082 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1428 ms
+2024-08-18 23:00:49,812 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-18 23:00:49,812 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-18 23:00:49,931 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:00:49,931 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:00:50,549 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:00:50,549 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:00:50,577 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-18 23:00:50,577 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-18 23:00:50,579 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-18 23:00:50,579 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-18 23:00:50,597 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-18 23:00:50,597 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-18 23:00:50,636 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-18 23:00:50,636 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-18 23:00:50,853 INFO [main][StartupInfoLogger.java:61] - Started wang.zi.jie.StudyContentApiApplication in 6.296 seconds (JVM running for 8.45)
+2024-08-18 23:00:50,853 INFO [main][StartupInfoLogger.java:61] - Started wang.zi.jie.StudyContentApiApplication in 6.296 seconds (JVM running for 8.45)

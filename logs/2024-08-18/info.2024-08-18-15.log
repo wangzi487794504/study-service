@@ -1,0 +1,84 @@
+2024-08-18 16:01:24,291 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 16:01:24,291 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 16:01:24,936 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 16:01:24,936 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 16:01:25,786 WARN [main][Logger.java:44] - No MyBatis mapper was found in '[wang.zi.jie.studycontentapi]' package. Please check your configuration.
+2024-08-18 16:01:25,786 WARN [main][Logger.java:44] - No MyBatis mapper was found in '[wang.zi.jie.studycontentapi]' package. Please check your configuration.
+2024-08-18 16:01:25,876 INFO [main][GenericScope.java:295] - BeanFactory id=aafb6aa9-f07d-30d7-a41b-810572439e8a
+2024-08-18 16:01:25,876 INFO [main][GenericScope.java:295] - BeanFactory id=aafb6aa9-f07d-30d7-a41b-810572439e8a
+2024-08-18 16:01:26,215 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 16:01:26,215 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 16:01:26,224 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 16:01:26,224 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 16:01:26,225 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 16:01:26,225 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 16:01:26,225 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 16:01:26,225 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 16:01:26,392 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 16:01:26,392 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 16:01:26,392 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1437 ms
+2024-08-18 16:01:26,392 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1437 ms
+2024-08-18 16:01:26,500 WARN [main][AbstractApplicationContext.java:559] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'courseBaseInfoController': Unsatisfied dependency expressed through field 'courseBaseService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'service.wang.zi.jie.CourseBaseService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2024-08-18 16:01:26,500 WARN [main][AbstractApplicationContext.java:559] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'courseBaseInfoController': Unsatisfied dependency expressed through field 'courseBaseService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'service.wang.zi.jie.CourseBaseService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2024-08-18 16:01:26,502 INFO [main][DirectJDKLog.java:173] - Stopping service [Tomcat]
+2024-08-18 16:01:26,502 INFO [main][DirectJDKLog.java:173] - Stopping service [Tomcat]
+2024-08-18 16:01:26,516 INFO [main][ConditionEvaluationReportLoggingListener.java:136] - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-08-18 16:01:26,516 INFO [main][ConditionEvaluationReportLoggingListener.java:136] - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-08-18 16:01:26,658 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field courseBaseService in controller.wang.zi.jie.CourseBaseInfoController required a bean of type 'service.wang.zi.jie.CourseBaseService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'service.wang.zi.jie.CourseBaseService' in your configuration.
+
+2024-08-18 16:11:03,559 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 16:11:03,559 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 16:11:04,087 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 16:11:04,087 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 16:11:04,896 WARN [main][Logger.java:44] - No MyBatis mapper was found in '[wang.zi.jie.studycontentapi]' package. Please check your configuration.
+2024-08-18 16:11:04,896 WARN [main][Logger.java:44] - No MyBatis mapper was found in '[wang.zi.jie.studycontentapi]' package. Please check your configuration.
+2024-08-18 16:11:04,968 INFO [main][GenericScope.java:295] - BeanFactory id=aafb6aa9-f07d-30d7-a41b-810572439e8a
+2024-08-18 16:11:04,968 INFO [main][GenericScope.java:295] - BeanFactory id=aafb6aa9-f07d-30d7-a41b-810572439e8a
+2024-08-18 16:11:05,322 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 16:11:05,322 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 16:11:05,331 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 16:11:05,331 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 16:11:05,332 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 16:11:05,332 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 16:11:05,332 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 16:11:05,332 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 16:11:05,473 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 16:11:05,473 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 16:11:05,473 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1372 ms
+2024-08-18 16:11:05,473 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1372 ms
+2024-08-18 16:11:05,937 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-18 16:11:05,937 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-18 16:11:06,041 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-18 16:11:06,041 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-18 16:11:08,363 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-18 16:11:08,363 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-18 16:11:08,385 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-18 16:11:08,385 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-18 16:11:08,386 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-18 16:11:08,386 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-18 16:11:08,398 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-18 16:11:08,398 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-18 16:11:08,432 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-18 16:11:08,432 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-18 16:11:08,623 INFO [main][StartupInfoLogger.java:61] - Started wang.zi.jie.StudyContentApiApplication in 5.467 seconds (JVM running for 7.526)
+2024-08-18 16:11:08,623 INFO [main][StartupInfoLogger.java:61] - Started wang.zi.jie.StudyContentApiApplication in 5.467 seconds (JVM running for 7.526)

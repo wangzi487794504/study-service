@@ -1,0 +1,1206 @@
+2024-08-18 23:01:24,094 WARN [http-nio-63110-exec-1][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5218b8ba (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:01:24,094 WARN [http-nio-63110-exec-1][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5218b8ba (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:01:24,255 WARN [http-nio-63110-exec-1][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5cfbd749 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:01:24,255 WARN [http-nio-63110-exec-1][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5cfbd749 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:01:24,291 WARN [http-nio-63110-exec-1][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3ed33d12 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:01:24,291 WARN [http-nio-63110-exec-1][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3ed33d12 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:01:24,314 WARN [http-nio-63110-exec-1][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@1309b5f7 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:01:24,314 WARN [http-nio-63110-exec-1][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@1309b5f7 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:01:24,331 WARN [http-nio-63110-exec-1][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@9b5aa66 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:01:24,331 WARN [http-nio-63110-exec-1][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@9b5aa66 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:01:24,347 WARN [http-nio-63110-exec-1][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@b766586 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:01:24,347 WARN [http-nio-63110-exec-1][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@b766586 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:01:24,364 WARN [http-nio-63110-exec-1][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@2ceaf257 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:01:24,364 WARN [http-nio-63110-exec-1][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@2ceaf257 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:01:24,380 WARN [http-nio-63110-exec-1][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@72124c30 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:01:24,380 WARN [http-nio-63110-exec-1][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@72124c30 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:01:24,396 WARN [http-nio-63110-exec-1][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@56d02e8e (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:01:24,396 WARN [http-nio-63110-exec-1][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@56d02e8e (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:01:24,414 WARN [http-nio-63110-exec-1][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6e323b87 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:01:24,414 WARN [http-nio-63110-exec-1][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6e323b87 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:01:26,163 INFO [http-nio-63040-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-18 23:01:26,163 INFO [http-nio-63040-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-18 23:01:26,163 INFO [http-nio-63040-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-08-18 23:01:26,163 INFO [http-nio-63040-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-08-18 23:01:26,175 INFO [http-nio-63040-exec-1][FrameworkServlet.java:547] - Completed initialization in 11 ms
+2024-08-18 23:01:26,175 INFO [http-nio-63040-exec-1][FrameworkServlet.java:547] - Completed initialization in 11 ms
+2024-08-18 23:02:08,184 ERROR [http-nio-63040-exec-1][DirectJDKLog.java:175] - Servlet.service() for servlet [dispatcherServlet] in context with path [/content] threw exception [Request processing failed; nested exception is org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): service.wang.zi.ji.student.CourseBaseInfoService.queryCourseBaseList] with root cause
+org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): service.wang.zi.ji.student.CourseBaseInfoService.queryCourseBaseList
+	at org.apache.ibatis.binding.MapperMethod$SqlCommand.<init>(MapperMethod.java:235)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.<init>(MybatisMapperMethod.java:51)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.lambda$cachedInvoker$0(MybatisMapperProxy.java:111)
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1660)
+	at com.baomidou.mybatisplus.core.toolkit.CollectionUtils.computeIfAbsent(CollectionUtils.java:117)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.cachedInvoker(MybatisMapperProxy.java:98)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.invoke(MybatisMapperProxy.java:89)
+	at com.sun.proxy.$Proxy86.queryCourseBaseList(Unknown Source)
+	at wang.zi.jie.studycontentapi.controller.CourseBaseInfoController.list(CourseBaseInfoController.java:43)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2024-08-18 23:02:08,184 ERROR [http-nio-63040-exec-1][DirectJDKLog.java:175] - Servlet.service() for servlet [dispatcherServlet] in context with path [/content] threw exception [Request processing failed; nested exception is org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): service.wang.zi.ji.student.CourseBaseInfoService.queryCourseBaseList] with root cause
+org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): service.wang.zi.ji.student.CourseBaseInfoService.queryCourseBaseList
+	at org.apache.ibatis.binding.MapperMethod$SqlCommand.<init>(MapperMethod.java:235)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.<init>(MybatisMapperMethod.java:51)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.lambda$cachedInvoker$0(MybatisMapperProxy.java:111)
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1660)
+	at com.baomidou.mybatisplus.core.toolkit.CollectionUtils.computeIfAbsent(CollectionUtils.java:117)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.cachedInvoker(MybatisMapperProxy.java:98)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.invoke(MybatisMapperProxy.java:89)
+	at com.sun.proxy.$Proxy86.queryCourseBaseList(Unknown Source)
+	at wang.zi.jie.studycontentapi.controller.CourseBaseInfoController.list(CourseBaseInfoController.java:43)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2024-08-18 23:02:35,115 ERROR [http-nio-63040-exec-2][DirectJDKLog.java:175] - Servlet.service() for servlet [dispatcherServlet] in context with path [/content] threw exception [Request processing failed; nested exception is org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): service.wang.zi.ji.student.CourseBaseInfoService.queryCourseBaseList] with root cause
+org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): service.wang.zi.ji.student.CourseBaseInfoService.queryCourseBaseList
+	at org.apache.ibatis.binding.MapperMethod$SqlCommand.<init>(MapperMethod.java:235)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.<init>(MybatisMapperMethod.java:51)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.lambda$cachedInvoker$0(MybatisMapperProxy.java:111)
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1660)
+	at com.baomidou.mybatisplus.core.toolkit.CollectionUtils.computeIfAbsent(CollectionUtils.java:117)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.cachedInvoker(MybatisMapperProxy.java:98)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.invoke(MybatisMapperProxy.java:89)
+	at com.sun.proxy.$Proxy86.queryCourseBaseList(Unknown Source)
+	at wang.zi.jie.studycontentapi.controller.CourseBaseInfoController.list(CourseBaseInfoController.java:43)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2024-08-18 23:02:35,115 ERROR [http-nio-63040-exec-2][DirectJDKLog.java:175] - Servlet.service() for servlet [dispatcherServlet] in context with path [/content] threw exception [Request processing failed; nested exception is org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): service.wang.zi.ji.student.CourseBaseInfoService.queryCourseBaseList] with root cause
+org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): service.wang.zi.ji.student.CourseBaseInfoService.queryCourseBaseList
+	at org.apache.ibatis.binding.MapperMethod$SqlCommand.<init>(MapperMethod.java:235)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.<init>(MybatisMapperMethod.java:51)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.lambda$cachedInvoker$0(MybatisMapperProxy.java:111)
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1660)
+	at com.baomidou.mybatisplus.core.toolkit.CollectionUtils.computeIfAbsent(CollectionUtils.java:117)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.cachedInvoker(MybatisMapperProxy.java:98)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.invoke(MybatisMapperProxy.java:89)
+	at com.sun.proxy.$Proxy86.queryCourseBaseList(Unknown Source)
+	at wang.zi.jie.studycontentapi.controller.CourseBaseInfoController.list(CourseBaseInfoController.java:43)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2024-08-18 23:10:59,613 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:10:59,613 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:11:11,840 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 23:11:11,840 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 23:11:12,285 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 23:11:12,285 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 23:11:13,171 INFO [main][GenericScope.java:295] - BeanFactory id=a82af4a0-8800-3bcb-ad86-8f5aa515d5d9
+2024-08-18 23:11:13,171 INFO [main][GenericScope.java:295] - BeanFactory id=a82af4a0-8800-3bcb-ad86-8f5aa515d5d9
+2024-08-18 23:11:13,483 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 23:11:13,483 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 23:11:13,493 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:11:13,493 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:11:13,494 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 23:11:13,494 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 23:11:13,495 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 23:11:13,495 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 23:11:13,630 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 23:11:13,630 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 23:11:13,631 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1327 ms
+2024-08-18 23:11:13,631 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1327 ms
+2024-08-18 23:11:16,509 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-18 23:11:16,509 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-18 23:11:16,615 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:11:16,615 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:11:17,133 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:11:17,133 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:11:17,157 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-18 23:11:17,157 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-18 23:11:17,158 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-18 23:11:17,158 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-18 23:11:17,172 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-18 23:11:17,172 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-18 23:11:17,213 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-18 23:11:17,213 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-18 23:11:17,373 INFO [main][StartupInfoLogger.java:61] - Started wang.zi.jie.StudyContentApiApplication in 5.936 seconds (JVM running for 7.82)
+2024-08-18 23:11:17,373 INFO [main][StartupInfoLogger.java:61] - Started wang.zi.jie.StudyContentApiApplication in 5.936 seconds (JVM running for 7.82)
+2024-08-18 23:12:54,963 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 23:12:54,963 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 23:12:55,399 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 23:12:55,399 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 23:12:56,238 WARN [main][Logger.java:44] - No MyBatis mapper was found in '[wang.zi.jie.contentservice, wang.zi.jie.studycontentapi]' package. Please check your configuration.
+2024-08-18 23:12:56,238 WARN [main][Logger.java:44] - No MyBatis mapper was found in '[wang.zi.jie.contentservice, wang.zi.jie.studycontentapi]' package. Please check your configuration.
+2024-08-18 23:12:56,323 INFO [main][GenericScope.java:295] - BeanFactory id=289a9366-4981-3810-bb98-c8af7bc7d27e
+2024-08-18 23:12:56,323 INFO [main][GenericScope.java:295] - BeanFactory id=289a9366-4981-3810-bb98-c8af7bc7d27e
+2024-08-18 23:12:56,622 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 23:12:56,622 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 23:12:56,631 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:12:56,631 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:12:56,632 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 23:12:56,632 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 23:12:56,632 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 23:12:56,632 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 23:12:56,776 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 23:12:56,776 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 23:12:56,777 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1361 ms
+2024-08-18 23:12:56,777 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1361 ms
+2024-08-18 23:12:59,795 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-18 23:12:59,795 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-18 23:13:00,069 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:13:00,069 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:13:00,996 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:13:00,996 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:13:01,007 WARN [main][AbstractApplicationContext.java:559] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 63040 is already in use
+2024-08-18 23:13:01,007 WARN [main][AbstractApplicationContext.java:559] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 63040 is already in use
+2024-08-18 23:13:01,008 INFO [main][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:13:01,008 INFO [main][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:13:01,011 INFO [main][DirectJDKLog.java:173] - Pausing ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:13:01,011 INFO [main][DirectJDKLog.java:173] - Pausing ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:13:01,011 INFO [main][DirectJDKLog.java:173] - Stopping service [Tomcat]
+2024-08-18 23:13:01,011 INFO [main][DirectJDKLog.java:173] - Stopping service [Tomcat]
+2024-08-18 23:13:01,015 INFO [main][DirectJDKLog.java:173] - Stopping ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:13:01,015 INFO [main][DirectJDKLog.java:173] - Stopping ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:13:01,016 INFO [main][DirectJDKLog.java:173] - Destroying ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:13:01,016 INFO [main][DirectJDKLog.java:173] - Destroying ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:13:01,021 INFO [main][ConditionEvaluationReportLoggingListener.java:136] - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-08-18 23:13:01,021 INFO [main][ConditionEvaluationReportLoggingListener.java:136] - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-08-18 23:13:01,027 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 63040 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 63040 or configure this application to listen on another port.
+
+2024-08-18 23:13:01,027 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 63040 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 63040 or configure this application to listen on another port.
+
+2024-08-18 23:13:30,999 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:13:30,999 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:13:39,242 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 23:13:39,242 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 23:13:39,731 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 23:13:39,731 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 23:13:40,535 WARN [main][Logger.java:44] - No MyBatis mapper was found in '[wang.zi.jie.contentservice, wang.zi.jie.studycontentapi]' package. Please check your configuration.
+2024-08-18 23:13:40,535 WARN [main][Logger.java:44] - No MyBatis mapper was found in '[wang.zi.jie.contentservice, wang.zi.jie.studycontentapi]' package. Please check your configuration.
+2024-08-18 23:13:40,610 INFO [main][GenericScope.java:295] - BeanFactory id=289a9366-4981-3810-bb98-c8af7bc7d27e
+2024-08-18 23:13:40,610 INFO [main][GenericScope.java:295] - BeanFactory id=289a9366-4981-3810-bb98-c8af7bc7d27e
+2024-08-18 23:13:40,897 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 23:13:40,897 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 23:13:40,906 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:13:40,906 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:13:40,906 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 23:13:40,906 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 23:13:40,907 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 23:13:40,907 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 23:13:41,031 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 23:13:41,031 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 23:13:41,031 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1284 ms
+2024-08-18 23:13:41,031 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1284 ms
+2024-08-18 23:13:43,936 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-18 23:13:43,936 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-18 23:13:44,040 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:13:44,040 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:13:44,357 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:13:44,357 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:13:44,381 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-18 23:13:44,381 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-18 23:13:44,382 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-18 23:13:44,382 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-18 23:13:44,394 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-18 23:13:44,394 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-18 23:13:44,428 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-18 23:13:44,428 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-18 23:13:44,593 INFO [main][StartupInfoLogger.java:61] - Started wang.zi.jie.StudyContentApiApplication in 5.755 seconds (JVM running for 7.665)
+2024-08-18 23:13:44,593 INFO [main][StartupInfoLogger.java:61] - Started wang.zi.jie.StudyContentApiApplication in 5.755 seconds (JVM running for 7.665)
+2024-08-18 23:14:09,592 WARN [http-nio-63110-exec-5][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@75a2a916 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:14:09,592 WARN [http-nio-63110-exec-5][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@75a2a916 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:14:09,654 WARN [http-nio-63110-exec-5][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3a6e11a0 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:14:09,654 WARN [http-nio-63110-exec-5][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3a6e11a0 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:14:09,726 WARN [http-nio-63110-exec-5][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3ebfcd06 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:14:09,726 WARN [http-nio-63110-exec-5][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3ebfcd06 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:14:09,742 WARN [http-nio-63110-exec-5][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3a689ae2 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:14:09,742 WARN [http-nio-63110-exec-5][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3a689ae2 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:14:09,796 WARN [http-nio-63110-exec-5][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@660ad3b1 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:14:09,796 WARN [http-nio-63110-exec-5][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@660ad3b1 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:14:09,812 WARN [http-nio-63110-exec-5][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@2c233dc1 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:14:09,812 WARN [http-nio-63110-exec-5][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@2c233dc1 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:14:10,154 WARN [http-nio-63110-exec-5][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6c3412be (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:14:10,154 WARN [http-nio-63110-exec-5][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@6c3412be (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:14:10,171 WARN [http-nio-63110-exec-5][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@12f53a50 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:14:10,171 WARN [http-nio-63110-exec-5][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@12f53a50 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:14:10,189 WARN [http-nio-63110-exec-5][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@22d2e4e4 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:14:10,189 WARN [http-nio-63110-exec-5][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@22d2e4e4 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:14:10,205 WARN [http-nio-63110-exec-5][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@172a184a (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:14:10,205 WARN [http-nio-63110-exec-5][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@172a184a (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:14:11,406 INFO [http-nio-63040-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-18 23:14:11,406 INFO [http-nio-63040-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-18 23:14:11,406 INFO [http-nio-63040-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-08-18 23:14:11,406 INFO [http-nio-63040-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-08-18 23:14:11,415 INFO [http-nio-63040-exec-1][FrameworkServlet.java:547] - Completed initialization in 7 ms
+2024-08-18 23:14:11,415 INFO [http-nio-63040-exec-1][FrameworkServlet.java:547] - Completed initialization in 7 ms
+2024-08-18 23:14:11,673 INFO [http-nio-63040-exec-1][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2024-08-18 23:14:11,673 INFO [http-nio-63040-exec-1][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2024-08-18 23:14:12,014 INFO [http-nio-63040-exec-1][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2024-08-18 23:14:12,014 INFO [http-nio-63040-exec-1][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2024-08-18 23:14:55,464 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:14:55,464 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:14:55,465 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-08-18 23:14:55,465 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-08-18 23:14:55,475 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-08-18 23:14:55,475 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-08-18 23:15:07,437 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 23:15:07,437 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 23:15:07,903 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 23:15:07,903 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 23:15:08,712 WARN [main][Logger.java:44] - No MyBatis mapper was found in '[wang.zi.jie.contentservice, wang.zi.jie.studycontentapi]' package. Please check your configuration.
+2024-08-18 23:15:08,712 WARN [main][Logger.java:44] - No MyBatis mapper was found in '[wang.zi.jie.contentservice, wang.zi.jie.studycontentapi]' package. Please check your configuration.
+2024-08-18 23:15:08,721 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseBaseMapper' and 'mapper.wang.zi.ji.student.CourseBaseMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:15:08,721 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseBaseMapper' and 'mapper.wang.zi.ji.student.CourseBaseMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:15:08,721 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseCategoryMapper' and 'mapper.wang.zi.ji.student.CourseCategoryMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:15:08,721 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseCategoryMapper' and 'mapper.wang.zi.ji.student.CourseCategoryMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:15:08,722 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseMarketMapper' and 'mapper.wang.zi.ji.student.CourseMarketMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:15:08,722 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseMarketMapper' and 'mapper.wang.zi.ji.student.CourseMarketMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:15:08,722 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishMapper' and 'mapper.wang.zi.ji.student.CoursePublishMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:15:08,722 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishMapper' and 'mapper.wang.zi.ji.student.CoursePublishMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:15:08,722 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishPreMapper' and 'mapper.wang.zi.ji.student.CoursePublishPreMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:15:08,722 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishPreMapper' and 'mapper.wang.zi.ji.student.CoursePublishPreMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:15:08,722 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseTeacherMapper' and 'mapper.wang.zi.ji.student.CourseTeacherMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:15:08,722 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseTeacherMapper' and 'mapper.wang.zi.ji.student.CourseTeacherMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:15:08,723 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMapper' and 'mapper.wang.zi.ji.student.TeachplanMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:15:08,723 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMapper' and 'mapper.wang.zi.ji.student.TeachplanMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:15:08,723 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMediaMapper' and 'mapper.wang.zi.ji.student.TeachplanMediaMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:15:08,723 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMediaMapper' and 'mapper.wang.zi.ji.student.TeachplanMediaMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:15:08,798 INFO [main][GenericScope.java:295] - BeanFactory id=3751da5b-458c-359e-9e13-56526e8f0b96
+2024-08-18 23:15:08,798 INFO [main][GenericScope.java:295] - BeanFactory id=3751da5b-458c-359e-9e13-56526e8f0b96
+2024-08-18 23:15:09,116 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 23:15:09,116 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 23:15:09,124 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:15:09,124 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:15:09,125 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 23:15:09,125 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 23:15:09,125 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 23:15:09,125 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 23:15:09,246 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 23:15:09,246 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 23:15:09,246 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1324 ms
+2024-08-18 23:15:09,246 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1324 ms
+2024-08-18 23:15:12,176 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-18 23:15:12,176 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-18 23:15:12,277 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:15:12,277 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:15:12,611 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:15:12,611 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:15:12,631 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-18 23:15:12,631 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-18 23:15:12,633 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-18 23:15:12,633 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-18 23:15:12,644 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-18 23:15:12,644 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-18 23:15:12,675 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-18 23:15:12,675 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-18 23:15:12,837 INFO [main][StartupInfoLogger.java:61] - Started wang.zi.jie.StudyContentApiApplication in 5.812 seconds (JVM running for 7.792)
+2024-08-18 23:15:12,837 INFO [main][StartupInfoLogger.java:61] - Started wang.zi.jie.StudyContentApiApplication in 5.812 seconds (JVM running for 7.792)
+2024-08-18 23:15:19,224 INFO [http-nio-63040-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-18 23:15:19,224 INFO [http-nio-63040-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-18 23:15:19,225 INFO [http-nio-63040-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-08-18 23:15:19,225 INFO [http-nio-63040-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-08-18 23:15:19,234 INFO [http-nio-63040-exec-1][FrameworkServlet.java:547] - Completed initialization in 9 ms
+2024-08-18 23:15:19,234 INFO [http-nio-63040-exec-1][FrameworkServlet.java:547] - Completed initialization in 9 ms
+2024-08-18 23:15:19,347 ERROR [http-nio-63040-exec-1][GlobalExceptionHandler.java:41] - 系统异常Invalid bound statement (not found): service.wang.zi.ji.student.CourseBaseInfoService.queryCourseBaseList
+org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): service.wang.zi.ji.student.CourseBaseInfoService.queryCourseBaseList
+	at org.apache.ibatis.binding.MapperMethod$SqlCommand.<init>(MapperMethod.java:235)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.<init>(MybatisMapperMethod.java:51)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.lambda$cachedInvoker$0(MybatisMapperProxy.java:111)
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1660)
+	at com.baomidou.mybatisplus.core.toolkit.CollectionUtils.computeIfAbsent(CollectionUtils.java:117)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.cachedInvoker(MybatisMapperProxy.java:98)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.invoke(MybatisMapperProxy.java:89)
+	at com.sun.proxy.$Proxy89.queryCourseBaseList(Unknown Source)
+	at controller.wang.zi.ji.student.CourseBaseInfoController.list(CourseBaseInfoController.java:43)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2024-08-18 23:15:19,347 ERROR [http-nio-63040-exec-1][GlobalExceptionHandler.java:41] - 系统异常Invalid bound statement (not found): service.wang.zi.ji.student.CourseBaseInfoService.queryCourseBaseList
+org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): service.wang.zi.ji.student.CourseBaseInfoService.queryCourseBaseList
+	at org.apache.ibatis.binding.MapperMethod$SqlCommand.<init>(MapperMethod.java:235)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.<init>(MybatisMapperMethod.java:51)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.lambda$cachedInvoker$0(MybatisMapperProxy.java:111)
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1660)
+	at com.baomidou.mybatisplus.core.toolkit.CollectionUtils.computeIfAbsent(CollectionUtils.java:117)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.cachedInvoker(MybatisMapperProxy.java:98)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.invoke(MybatisMapperProxy.java:89)
+	at com.sun.proxy.$Proxy89.queryCourseBaseList(Unknown Source)
+	at controller.wang.zi.ji.student.CourseBaseInfoController.list(CourseBaseInfoController.java:43)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2024-08-18 23:25:29,619 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:25:29,619 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:25:58,697 WARN [http-nio-63110-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@60dbcf61 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:25:58,697 WARN [http-nio-63110-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@60dbcf61 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:25:58,920 WARN [http-nio-63110-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@18fba9cc (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:25:58,920 WARN [http-nio-63110-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@18fba9cc (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:25:58,960 WARN [http-nio-63110-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@324ba908 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:25:58,960 WARN [http-nio-63110-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@324ba908 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:25:58,978 WARN [http-nio-63110-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@59dd9ad6 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:25:58,978 WARN [http-nio-63110-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@59dd9ad6 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:25:59,030 WARN [http-nio-63110-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5e049258 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:25:59,030 WARN [http-nio-63110-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5e049258 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:25:59,073 WARN [http-nio-63110-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@1bf4f59d (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:25:59,073 WARN [http-nio-63110-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@1bf4f59d (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:25:59,119 WARN [http-nio-63110-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@74180c02 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:25:59,119 WARN [http-nio-63110-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@74180c02 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:25:59,137 WARN [http-nio-63110-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@41a6237d (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:25:59,137 WARN [http-nio-63110-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@41a6237d (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:25:59,155 WARN [http-nio-63110-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3bcaff43 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:25:59,155 WARN [http-nio-63110-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@3bcaff43 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:25:59,171 WARN [http-nio-63110-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@7aebdba (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:25:59,171 WARN [http-nio-63110-exec-9][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@7aebdba (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-08-18 23:26:03,502 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 23:26:03,502 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 23:26:04,145 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 23:26:04,145 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 23:26:05,261 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseBaseMapper' and 'mapper.wang.zi.ji.student.CourseBaseMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,261 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseBaseMapper' and 'mapper.wang.zi.ji.student.CourseBaseMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,262 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseCategoryMapper' and 'mapper.wang.zi.ji.student.CourseCategoryMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,262 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseCategoryMapper' and 'mapper.wang.zi.ji.student.CourseCategoryMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,262 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseMarketMapper' and 'mapper.wang.zi.ji.student.CourseMarketMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,262 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseMarketMapper' and 'mapper.wang.zi.ji.student.CourseMarketMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,262 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishMapper' and 'mapper.wang.zi.ji.student.CoursePublishMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,262 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishMapper' and 'mapper.wang.zi.ji.student.CoursePublishMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,262 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishPreMapper' and 'mapper.wang.zi.ji.student.CoursePublishPreMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,262 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishPreMapper' and 'mapper.wang.zi.ji.student.CoursePublishPreMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,263 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseTeacherMapper' and 'mapper.wang.zi.ji.student.CourseTeacherMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,263 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseTeacherMapper' and 'mapper.wang.zi.ji.student.CourseTeacherMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,263 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMapper' and 'mapper.wang.zi.ji.student.TeachplanMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,263 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMapper' and 'mapper.wang.zi.ji.student.TeachplanMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,263 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMediaMapper' and 'mapper.wang.zi.ji.student.TeachplanMediaMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,263 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMediaMapper' and 'mapper.wang.zi.ji.student.TeachplanMediaMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,264 WARN [main][Logger.java:44] - No MyBatis mapper was found in '[wang.zi.jie.mapper]' package. Please check your configuration.
+2024-08-18 23:26:05,264 WARN [main][Logger.java:44] - No MyBatis mapper was found in '[wang.zi.jie.mapper]' package. Please check your configuration.
+2024-08-18 23:26:05,270 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseBaseMapper' and 'mapper.wang.zi.ji.student.CourseBaseMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,270 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseBaseMapper' and 'mapper.wang.zi.ji.student.CourseBaseMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,270 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseCategoryMapper' and 'mapper.wang.zi.ji.student.CourseCategoryMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,270 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseCategoryMapper' and 'mapper.wang.zi.ji.student.CourseCategoryMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,271 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseMarketMapper' and 'mapper.wang.zi.ji.student.CourseMarketMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,271 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseMarketMapper' and 'mapper.wang.zi.ji.student.CourseMarketMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,271 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishMapper' and 'mapper.wang.zi.ji.student.CoursePublishMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,271 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishMapper' and 'mapper.wang.zi.ji.student.CoursePublishMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,271 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishPreMapper' and 'mapper.wang.zi.ji.student.CoursePublishPreMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,271 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishPreMapper' and 'mapper.wang.zi.ji.student.CoursePublishPreMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,271 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseTeacherMapper' and 'mapper.wang.zi.ji.student.CourseTeacherMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,271 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseTeacherMapper' and 'mapper.wang.zi.ji.student.CourseTeacherMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,271 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMapper' and 'mapper.wang.zi.ji.student.TeachplanMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,271 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMapper' and 'mapper.wang.zi.ji.student.TeachplanMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,272 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMediaMapper' and 'mapper.wang.zi.ji.student.TeachplanMediaMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,272 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMediaMapper' and 'mapper.wang.zi.ji.student.TeachplanMediaMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:05,369 INFO [main][GenericScope.java:295] - BeanFactory id=3751da5b-458c-359e-9e13-56526e8f0b96
+2024-08-18 23:26:05,369 INFO [main][GenericScope.java:295] - BeanFactory id=3751da5b-458c-359e-9e13-56526e8f0b96
+2024-08-18 23:26:05,762 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 23:26:05,762 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 23:26:05,773 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:26:05,773 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:26:05,773 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 23:26:05,773 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 23:26:05,773 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 23:26:05,773 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 23:26:05,924 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 23:26:05,924 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 23:26:05,925 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1757 ms
+2024-08-18 23:26:05,925 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1757 ms
+2024-08-18 23:26:09,047 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-18 23:26:09,047 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-18 23:26:09,160 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:26:09,160 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:26:09,520 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:26:09,520 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:26:09,546 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-18 23:26:09,546 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-18 23:26:09,549 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-18 23:26:09,549 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-18 23:26:09,565 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-18 23:26:09,565 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-18 23:26:09,611 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-18 23:26:09,611 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-18 23:26:09,830 INFO [main][StartupInfoLogger.java:61] - Started wang.zi.jie.StudyContentApiApplication in 6.863 seconds (JVM running for 24.678)
+2024-08-18 23:26:09,830 INFO [main][StartupInfoLogger.java:61] - Started wang.zi.jie.StudyContentApiApplication in 6.863 seconds (JVM running for 24.678)
+2024-08-18 23:26:45,921 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:26:45,921 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:26:50,684 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 23:26:50,684 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 23:26:51,215 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 23:26:51,215 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 23:26:52,137 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseBaseMapper' and 'mapper.wang.zi.ji.student.CourseBaseMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,137 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseBaseMapper' and 'mapper.wang.zi.ji.student.CourseBaseMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,137 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseCategoryMapper' and 'mapper.wang.zi.ji.student.CourseCategoryMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,137 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseCategoryMapper' and 'mapper.wang.zi.ji.student.CourseCategoryMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,137 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseMarketMapper' and 'mapper.wang.zi.ji.student.CourseMarketMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,137 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseMarketMapper' and 'mapper.wang.zi.ji.student.CourseMarketMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,138 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishMapper' and 'mapper.wang.zi.ji.student.CoursePublishMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,138 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishMapper' and 'mapper.wang.zi.ji.student.CoursePublishMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,138 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishPreMapper' and 'mapper.wang.zi.ji.student.CoursePublishPreMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,138 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishPreMapper' and 'mapper.wang.zi.ji.student.CoursePublishPreMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,138 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseTeacherMapper' and 'mapper.wang.zi.ji.student.CourseTeacherMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,138 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseTeacherMapper' and 'mapper.wang.zi.ji.student.CourseTeacherMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,139 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMapper' and 'mapper.wang.zi.ji.student.TeachplanMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,139 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMapper' and 'mapper.wang.zi.ji.student.TeachplanMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,139 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMediaMapper' and 'mapper.wang.zi.ji.student.TeachplanMediaMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,139 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMediaMapper' and 'mapper.wang.zi.ji.student.TeachplanMediaMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,139 WARN [main][Logger.java:44] - No MyBatis mapper was found in '[wang.zi.jie.mapper]' package. Please check your configuration.
+2024-08-18 23:26:52,139 WARN [main][Logger.java:44] - No MyBatis mapper was found in '[wang.zi.jie.mapper]' package. Please check your configuration.
+2024-08-18 23:26:52,145 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseBaseMapper' and 'mapper.wang.zi.ji.student.CourseBaseMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,145 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseBaseMapper' and 'mapper.wang.zi.ji.student.CourseBaseMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,145 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseCategoryMapper' and 'mapper.wang.zi.ji.student.CourseCategoryMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,145 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseCategoryMapper' and 'mapper.wang.zi.ji.student.CourseCategoryMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,146 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseMarketMapper' and 'mapper.wang.zi.ji.student.CourseMarketMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,146 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseMarketMapper' and 'mapper.wang.zi.ji.student.CourseMarketMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,146 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishMapper' and 'mapper.wang.zi.ji.student.CoursePublishMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,146 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishMapper' and 'mapper.wang.zi.ji.student.CoursePublishMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,146 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishPreMapper' and 'mapper.wang.zi.ji.student.CoursePublishPreMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,146 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishPreMapper' and 'mapper.wang.zi.ji.student.CoursePublishPreMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,146 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseTeacherMapper' and 'mapper.wang.zi.ji.student.CourseTeacherMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,146 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseTeacherMapper' and 'mapper.wang.zi.ji.student.CourseTeacherMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,146 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMapper' and 'mapper.wang.zi.ji.student.TeachplanMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,146 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMapper' and 'mapper.wang.zi.ji.student.TeachplanMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,147 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMediaMapper' and 'mapper.wang.zi.ji.student.TeachplanMediaMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,147 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMediaMapper' and 'mapper.wang.zi.ji.student.TeachplanMediaMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:26:52,235 INFO [main][GenericScope.java:295] - BeanFactory id=3751da5b-458c-359e-9e13-56526e8f0b96
+2024-08-18 23:26:52,235 INFO [main][GenericScope.java:295] - BeanFactory id=3751da5b-458c-359e-9e13-56526e8f0b96
+2024-08-18 23:26:52,604 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 23:26:52,604 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 23:26:52,615 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:26:52,615 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:26:52,615 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 23:26:52,615 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 23:26:52,616 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 23:26:52,616 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 23:26:52,748 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 23:26:52,748 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 23:26:52,749 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1511 ms
+2024-08-18 23:26:52,749 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1511 ms
+2024-08-18 23:26:55,999 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-18 23:26:55,999 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-18 23:26:56,116 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:26:56,116 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:26:56,502 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:26:56,502 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:26:56,530 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-18 23:26:56,530 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-18 23:26:56,532 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-18 23:26:56,532 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-18 23:26:56,548 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-18 23:26:56,548 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-18 23:26:56,592 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-18 23:26:56,592 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-18 23:26:56,878 INFO [main][StartupInfoLogger.java:61] - Started wang.zi.jie.StudyContentApiApplication in 6.686 seconds (JVM running for 8.776)
+2024-08-18 23:26:56,878 INFO [main][StartupInfoLogger.java:61] - Started wang.zi.jie.StudyContentApiApplication in 6.686 seconds (JVM running for 8.776)
+2024-08-18 23:27:07,787 INFO [http-nio-63040-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-18 23:27:07,787 INFO [http-nio-63040-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-18 23:27:07,788 INFO [http-nio-63040-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-08-18 23:27:07,788 INFO [http-nio-63040-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-08-18 23:27:07,798 INFO [http-nio-63040-exec-1][FrameworkServlet.java:547] - Completed initialization in 10 ms
+2024-08-18 23:27:07,798 INFO [http-nio-63040-exec-1][FrameworkServlet.java:547] - Completed initialization in 10 ms
+2024-08-18 23:27:59,549 INFO [http-nio-63040-exec-1][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2024-08-18 23:27:59,549 INFO [http-nio-63040-exec-1][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2024-08-18 23:27:59,865 INFO [http-nio-63040-exec-1][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2024-08-18 23:27:59,865 INFO [http-nio-63040-exec-1][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2024-08-18 23:28:00,649 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:28:00,649 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:28:00,651 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-08-18 23:28:00,651 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-08-18 23:28:00,770 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-08-18 23:28:00,770 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-08-18 23:28:06,137 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 23:28:06,137 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 23:28:06,655 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 23:28:06,655 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 23:28:07,550 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseBaseMapper' and 'mapper.wang.zi.ji.student.CourseBaseMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,550 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseBaseMapper' and 'mapper.wang.zi.ji.student.CourseBaseMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,550 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseCategoryMapper' and 'mapper.wang.zi.ji.student.CourseCategoryMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,550 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseCategoryMapper' and 'mapper.wang.zi.ji.student.CourseCategoryMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,550 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseMarketMapper' and 'mapper.wang.zi.ji.student.CourseMarketMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,550 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseMarketMapper' and 'mapper.wang.zi.ji.student.CourseMarketMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,550 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishMapper' and 'mapper.wang.zi.ji.student.CoursePublishMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,550 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishMapper' and 'mapper.wang.zi.ji.student.CoursePublishMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,551 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishPreMapper' and 'mapper.wang.zi.ji.student.CoursePublishPreMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,551 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishPreMapper' and 'mapper.wang.zi.ji.student.CoursePublishPreMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,551 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseTeacherMapper' and 'mapper.wang.zi.ji.student.CourseTeacherMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,551 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseTeacherMapper' and 'mapper.wang.zi.ji.student.CourseTeacherMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,551 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMapper' and 'mapper.wang.zi.ji.student.TeachplanMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,551 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMapper' and 'mapper.wang.zi.ji.student.TeachplanMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,551 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMediaMapper' and 'mapper.wang.zi.ji.student.TeachplanMediaMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,551 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMediaMapper' and 'mapper.wang.zi.ji.student.TeachplanMediaMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,552 WARN [main][Logger.java:44] - No MyBatis mapper was found in '[wang.zi.jie.mapper]' package. Please check your configuration.
+2024-08-18 23:28:07,552 WARN [main][Logger.java:44] - No MyBatis mapper was found in '[wang.zi.jie.mapper]' package. Please check your configuration.
+2024-08-18 23:28:07,558 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseBaseMapper' and 'mapper.wang.zi.ji.student.CourseBaseMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,558 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseBaseMapper' and 'mapper.wang.zi.ji.student.CourseBaseMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,558 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseCategoryMapper' and 'mapper.wang.zi.ji.student.CourseCategoryMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,558 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseCategoryMapper' and 'mapper.wang.zi.ji.student.CourseCategoryMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,559 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseMarketMapper' and 'mapper.wang.zi.ji.student.CourseMarketMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,559 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseMarketMapper' and 'mapper.wang.zi.ji.student.CourseMarketMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,559 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishMapper' and 'mapper.wang.zi.ji.student.CoursePublishMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,559 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishMapper' and 'mapper.wang.zi.ji.student.CoursePublishMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,559 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishPreMapper' and 'mapper.wang.zi.ji.student.CoursePublishPreMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,559 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishPreMapper' and 'mapper.wang.zi.ji.student.CoursePublishPreMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,560 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseTeacherMapper' and 'mapper.wang.zi.ji.student.CourseTeacherMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,560 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseTeacherMapper' and 'mapper.wang.zi.ji.student.CourseTeacherMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,560 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMapper' and 'mapper.wang.zi.ji.student.TeachplanMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,560 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMapper' and 'mapper.wang.zi.ji.student.TeachplanMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,560 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMediaMapper' and 'mapper.wang.zi.ji.student.TeachplanMediaMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,560 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMediaMapper' and 'mapper.wang.zi.ji.student.TeachplanMediaMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:28:07,650 INFO [main][GenericScope.java:295] - BeanFactory id=3751da5b-458c-359e-9e13-56526e8f0b96
+2024-08-18 23:28:07,650 INFO [main][GenericScope.java:295] - BeanFactory id=3751da5b-458c-359e-9e13-56526e8f0b96
+2024-08-18 23:28:08,000 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 23:28:08,000 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 23:28:08,010 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:28:08,010 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:28:08,010 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 23:28:08,010 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 23:28:08,011 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 23:28:08,011 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 23:28:08,160 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 23:28:08,160 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 23:28:08,160 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1484 ms
+2024-08-18 23:28:08,160 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1484 ms
+2024-08-18 23:28:11,088 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-18 23:28:11,088 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-18 23:28:11,199 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:28:11,199 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:28:11,561 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:28:11,561 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:28:11,587 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-18 23:28:11,587 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-18 23:28:11,588 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-18 23:28:11,588 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-18 23:28:11,603 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-18 23:28:11,603 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-18 23:28:11,641 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-18 23:28:11,641 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-18 23:28:11,851 INFO [main][StartupInfoLogger.java:61] - Started wang.zi.jie.StudyContentApiApplication in 6.196 seconds (JVM running for 8.234)
+2024-08-18 23:28:11,851 INFO [main][StartupInfoLogger.java:61] - Started wang.zi.jie.StudyContentApiApplication in 6.196 seconds (JVM running for 8.234)
+2024-08-18 23:28:28,413 INFO [http-nio-63040-exec-2][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-18 23:28:28,413 INFO [http-nio-63040-exec-2][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-18 23:28:28,413 INFO [http-nio-63040-exec-2][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-08-18 23:28:28,413 INFO [http-nio-63040-exec-2][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-08-18 23:28:28,425 INFO [http-nio-63040-exec-2][FrameworkServlet.java:547] - Completed initialization in 12 ms
+2024-08-18 23:28:28,425 INFO [http-nio-63040-exec-2][FrameworkServlet.java:547] - Completed initialization in 12 ms
+2024-08-18 23:29:38,165 INFO [http-nio-63040-exec-2][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2024-08-18 23:29:38,165 INFO [http-nio-63040-exec-2][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2024-08-18 23:29:39,217 INFO [http-nio-63040-exec-2][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2024-08-18 23:29:39,217 INFO [http-nio-63040-exec-2][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2024-08-18 23:31:44,872 WARN [HikariPool-1 housekeeper][HikariPool.java:787] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m35s535ms669µs200ns).
+2024-08-18 23:31:44,872 WARN [HikariPool-1 housekeeper][HikariPool.java:787] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m35s535ms669µs200ns).
+2024-08-18 23:31:45,942 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:31:45,942 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:31:45,944 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-08-18 23:31:45,944 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-08-18 23:31:45,955 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-08-18 23:31:45,955 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-08-18 23:31:55,938 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 23:31:55,938 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 23:31:56,449 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 23:31:56,449 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 23:31:57,351 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseBaseMapper' and 'mapper.wang.zi.ji.student.CourseBaseMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:31:57,351 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseBaseMapper' and 'mapper.wang.zi.ji.student.CourseBaseMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:31:57,351 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseCategoryMapper' and 'mapper.wang.zi.ji.student.CourseCategoryMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:31:57,351 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseCategoryMapper' and 'mapper.wang.zi.ji.student.CourseCategoryMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:31:57,351 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseMarketMapper' and 'mapper.wang.zi.ji.student.CourseMarketMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:31:57,351 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseMarketMapper' and 'mapper.wang.zi.ji.student.CourseMarketMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:31:57,351 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishMapper' and 'mapper.wang.zi.ji.student.CoursePublishMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:31:57,351 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishMapper' and 'mapper.wang.zi.ji.student.CoursePublishMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:31:57,351 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishPreMapper' and 'mapper.wang.zi.ji.student.CoursePublishPreMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:31:57,351 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishPreMapper' and 'mapper.wang.zi.ji.student.CoursePublishPreMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:31:57,352 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseTeacherMapper' and 'mapper.wang.zi.ji.student.CourseTeacherMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:31:57,352 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseTeacherMapper' and 'mapper.wang.zi.ji.student.CourseTeacherMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:31:57,352 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMapper' and 'mapper.wang.zi.ji.student.TeachplanMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:31:57,352 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMapper' and 'mapper.wang.zi.ji.student.TeachplanMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:31:57,352 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMediaMapper' and 'mapper.wang.zi.ji.student.TeachplanMediaMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:31:57,352 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMediaMapper' and 'mapper.wang.zi.ji.student.TeachplanMediaMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:31:57,352 WARN [main][Logger.java:44] - No MyBatis mapper was found in '[wang.zi.jie.mapper]' package. Please check your configuration.
+2024-08-18 23:31:57,352 WARN [main][Logger.java:44] - No MyBatis mapper was found in '[wang.zi.jie.mapper]' package. Please check your configuration.
+2024-08-18 23:31:57,438 INFO [main][GenericScope.java:295] - BeanFactory id=289a9366-4981-3810-bb98-c8af7bc7d27e
+2024-08-18 23:31:57,438 INFO [main][GenericScope.java:295] - BeanFactory id=289a9366-4981-3810-bb98-c8af7bc7d27e
+2024-08-18 23:31:57,780 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 23:31:57,780 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 23:31:57,789 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:31:57,789 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:31:57,790 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 23:31:57,790 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 23:31:57,790 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 23:31:57,790 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 23:31:57,946 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 23:31:57,946 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 23:31:57,946 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1478 ms
+2024-08-18 23:31:57,946 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1478 ms
+2024-08-18 23:32:01,068 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-18 23:32:01,068 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-18 23:32:01,190 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:32:01,190 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:32:01,543 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:32:01,543 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:32:01,567 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-18 23:32:01,567 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-18 23:32:01,569 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-18 23:32:01,569 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-18 23:32:01,583 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-18 23:32:01,583 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-18 23:32:01,627 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-18 23:32:01,627 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-18 23:32:01,836 INFO [main][StartupInfoLogger.java:61] - Started wang.zi.jie.StudyContentApiApplication in 6.378 seconds (JVM running for 8.399)
+2024-08-18 23:32:01,836 INFO [main][StartupInfoLogger.java:61] - Started wang.zi.jie.StudyContentApiApplication in 6.378 seconds (JVM running for 8.399)
+2024-08-18 23:32:20,696 INFO [http-nio-63040-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-18 23:32:20,696 INFO [http-nio-63040-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-18 23:32:20,696 INFO [http-nio-63040-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-08-18 23:32:20,696 INFO [http-nio-63040-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-08-18 23:32:20,706 INFO [http-nio-63040-exec-1][FrameworkServlet.java:547] - Completed initialization in 9 ms
+2024-08-18 23:32:20,706 INFO [http-nio-63040-exec-1][FrameworkServlet.java:547] - Completed initialization in 9 ms
+2024-08-18 23:33:21,876 INFO [http-nio-63040-exec-1][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2024-08-18 23:33:21,876 INFO [http-nio-63040-exec-1][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2024-08-18 23:33:22,225 INFO [http-nio-63040-exec-1][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2024-08-18 23:33:22,225 INFO [http-nio-63040-exec-1][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2024-08-18 23:33:23,034 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:33:23,034 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:33:23,036 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-08-18 23:33:23,036 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-08-18 23:33:23,116 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-08-18 23:33:23,116 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-08-18 23:33:33,431 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 23:33:33,431 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 23:33:33,978 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 23:33:33,978 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 23:33:34,902 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseBaseMapper' and 'mapper.wang.zi.ji.student.CourseBaseMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:33:34,902 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseBaseMapper' and 'mapper.wang.zi.ji.student.CourseBaseMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:33:34,903 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseCategoryMapper' and 'mapper.wang.zi.ji.student.CourseCategoryMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:33:34,903 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseCategoryMapper' and 'mapper.wang.zi.ji.student.CourseCategoryMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:33:34,903 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseMarketMapper' and 'mapper.wang.zi.ji.student.CourseMarketMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:33:34,903 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseMarketMapper' and 'mapper.wang.zi.ji.student.CourseMarketMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:33:34,903 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishMapper' and 'mapper.wang.zi.ji.student.CoursePublishMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:33:34,903 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishMapper' and 'mapper.wang.zi.ji.student.CoursePublishMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:33:34,903 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishPreMapper' and 'mapper.wang.zi.ji.student.CoursePublishPreMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:33:34,903 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishPreMapper' and 'mapper.wang.zi.ji.student.CoursePublishPreMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:33:34,903 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseTeacherMapper' and 'mapper.wang.zi.ji.student.CourseTeacherMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:33:34,903 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseTeacherMapper' and 'mapper.wang.zi.ji.student.CourseTeacherMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:33:34,904 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMapper' and 'mapper.wang.zi.ji.student.TeachplanMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:33:34,904 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMapper' and 'mapper.wang.zi.ji.student.TeachplanMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:33:34,904 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMediaMapper' and 'mapper.wang.zi.ji.student.TeachplanMediaMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:33:34,904 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMediaMapper' and 'mapper.wang.zi.ji.student.TeachplanMediaMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:33:34,904 WARN [main][Logger.java:44] - No MyBatis mapper was found in '[wang.zi.jie.mapper]' package. Please check your configuration.
+2024-08-18 23:33:34,904 WARN [main][Logger.java:44] - No MyBatis mapper was found in '[wang.zi.jie.mapper]' package. Please check your configuration.
+2024-08-18 23:33:34,991 INFO [main][GenericScope.java:295] - BeanFactory id=289a9366-4981-3810-bb98-c8af7bc7d27e
+2024-08-18 23:33:34,991 INFO [main][GenericScope.java:295] - BeanFactory id=289a9366-4981-3810-bb98-c8af7bc7d27e
+2024-08-18 23:33:35,462 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 23:33:35,462 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 23:33:35,472 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:33:35,472 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:33:35,472 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 23:33:35,472 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 23:33:35,473 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 23:33:35,473 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 23:33:35,623 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 23:33:35,623 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 23:33:35,623 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1630 ms
+2024-08-18 23:33:35,623 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1630 ms
+2024-08-18 23:33:38,665 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-18 23:33:38,665 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-18 23:33:38,787 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:33:38,787 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:33:39,145 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:33:39,145 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:33:39,171 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-18 23:33:39,171 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-18 23:33:39,173 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-18 23:33:39,173 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-18 23:33:39,187 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-18 23:33:39,187 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-18 23:33:39,228 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-18 23:33:39,228 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-18 23:33:39,439 INFO [main][StartupInfoLogger.java:61] - Started wang.zi.jie.StudyContentApiApplication in 6.547 seconds (JVM running for 8.687)
+2024-08-18 23:33:39,439 INFO [main][StartupInfoLogger.java:61] - Started wang.zi.jie.StudyContentApiApplication in 6.547 seconds (JVM running for 8.687)
+2024-08-18 23:33:47,474 INFO [http-nio-63040-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-18 23:33:47,474 INFO [http-nio-63040-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-18 23:33:47,476 INFO [http-nio-63040-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-08-18 23:33:47,476 INFO [http-nio-63040-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-08-18 23:33:47,487 INFO [http-nio-63040-exec-1][FrameworkServlet.java:547] - Completed initialization in 10 ms
+2024-08-18 23:33:47,487 INFO [http-nio-63040-exec-1][FrameworkServlet.java:547] - Completed initialization in 10 ms
+2024-08-18 23:34:30,759 INFO [http-nio-63040-exec-1][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2024-08-18 23:34:30,759 INFO [http-nio-63040-exec-1][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2024-08-18 23:34:31,175 INFO [http-nio-63040-exec-1][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2024-08-18 23:34:31,175 INFO [http-nio-63040-exec-1][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2024-08-18 23:34:31,800 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:34:31,800 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:34:31,802 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-08-18 23:34:31,802 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-08-18 23:34:32,005 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-08-18 23:34:32,005 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-08-18 23:34:42,970 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 23:34:42,970 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-18 23:34:43,505 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 23:34:43,505 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-18 23:34:44,460 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseBaseMapper' and 'mapper.wang.zi.ji.student.CourseBaseMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:34:44,460 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseBaseMapper' and 'mapper.wang.zi.ji.student.CourseBaseMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:34:44,460 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseCategoryMapper' and 'mapper.wang.zi.ji.student.CourseCategoryMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:34:44,460 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseCategoryMapper' and 'mapper.wang.zi.ji.student.CourseCategoryMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:34:44,461 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseMarketMapper' and 'mapper.wang.zi.ji.student.CourseMarketMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:34:44,461 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseMarketMapper' and 'mapper.wang.zi.ji.student.CourseMarketMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:34:44,461 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishMapper' and 'mapper.wang.zi.ji.student.CoursePublishMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:34:44,461 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishMapper' and 'mapper.wang.zi.ji.student.CoursePublishMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:34:44,461 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishPreMapper' and 'mapper.wang.zi.ji.student.CoursePublishPreMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:34:44,461 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'coursePublishPreMapper' and 'mapper.wang.zi.ji.student.CoursePublishPreMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:34:44,461 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseTeacherMapper' and 'mapper.wang.zi.ji.student.CourseTeacherMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:34:44,461 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'courseTeacherMapper' and 'mapper.wang.zi.ji.student.CourseTeacherMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:34:44,462 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMapper' and 'mapper.wang.zi.ji.student.TeachplanMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:34:44,462 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMapper' and 'mapper.wang.zi.ji.student.TeachplanMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:34:44,462 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMediaMapper' and 'mapper.wang.zi.ji.student.TeachplanMediaMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:34:44,462 WARN [main][Logger.java:44] - Skipping MapperFactoryBean with name 'teachplanMediaMapper' and 'mapper.wang.zi.ji.student.TeachplanMediaMapper' mapperInterface. Bean already defined with the same name!
+2024-08-18 23:34:44,462 WARN [main][Logger.java:44] - No MyBatis mapper was found in '[wang.zi.jie.mapper]' package. Please check your configuration.
+2024-08-18 23:34:44,462 WARN [main][Logger.java:44] - No MyBatis mapper was found in '[wang.zi.jie.mapper]' package. Please check your configuration.
+2024-08-18 23:34:44,557 INFO [main][GenericScope.java:295] - BeanFactory id=289a9366-4981-3810-bb98-c8af7bc7d27e
+2024-08-18 23:34:44,557 INFO [main][GenericScope.java:295] - BeanFactory id=289a9366-4981-3810-bb98-c8af7bc7d27e
+2024-08-18 23:34:44,936 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 23:34:44,936 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-18 23:34:44,947 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:34:44,947 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:34:44,947 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 23:34:44,947 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-18 23:34:44,948 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 23:34:44,948 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-18 23:34:45,111 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 23:34:45,111 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-18 23:34:45,111 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1588 ms
+2024-08-18 23:34:45,111 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1588 ms
+2024-08-18 23:34:48,175 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-18 23:34:48,175 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-18 23:34:48,298 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:34:48,298 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:34:48,697 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:34:48,697 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-18 23:34:48,730 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-18 23:34:48,730 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-18 23:34:48,732 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-18 23:34:48,732 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-18 23:34:48,752 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-18 23:34:48,752 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-18 23:34:48,791 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-18 23:34:48,791 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-18 23:34:48,999 INFO [main][StartupInfoLogger.java:61] - Started wang.zi.jie.StudyContentApiApplication in 6.525 seconds (JVM running for 8.672)
+2024-08-18 23:34:48,999 INFO [main][StartupInfoLogger.java:61] - Started wang.zi.jie.StudyContentApiApplication in 6.525 seconds (JVM running for 8.672)
+2024-08-18 23:34:58,039 INFO [http-nio-63040-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-18 23:34:58,039 INFO [http-nio-63040-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-18 23:34:58,039 INFO [http-nio-63040-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-08-18 23:34:58,039 INFO [http-nio-63040-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-08-18 23:34:58,048 INFO [http-nio-63040-exec-1][FrameworkServlet.java:547] - Completed initialization in 7 ms
+2024-08-18 23:34:58,048 INFO [http-nio-63040-exec-1][FrameworkServlet.java:547] - Completed initialization in 7 ms
+2024-08-18 23:40:57,663 ERROR [http-nio-63040-exec-1][GlobalExceptionHandler.java:41] - 系统异常null
+java.lang.NullPointerException
+	at impl.service.wang.zi.ji.student.CourseBaseInfoServiceImpl.queryCourseBaseList(CourseBaseInfoServiceImpl.java:58)
+	at controller.wang.zi.ji.student.CourseBaseInfoController.list(CourseBaseInfoController.java:45)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2024-08-18 23:40:57,663 ERROR [http-nio-63040-exec-1][GlobalExceptionHandler.java:41] - 系统异常null
+java.lang.NullPointerException
+	at impl.service.wang.zi.ji.student.CourseBaseInfoServiceImpl.queryCourseBaseList(CourseBaseInfoServiceImpl.java:58)
+	at controller.wang.zi.ji.student.CourseBaseInfoController.list(CourseBaseInfoController.java:45)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2024-08-18 23:40:59,298 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:40:59,298 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:41:01,123 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'taskScheduler'
+2024-08-18 23:41:01,123 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'taskScheduler'
+2024-08-18 23:41:01,193 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:41:01,193 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-18 23:41:01,232 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-08-18 23:41:01,232 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-08-18 23:41:01,299 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-08-18 23:41:01,299 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.

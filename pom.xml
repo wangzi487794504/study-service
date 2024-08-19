@@ -7,7 +7,11 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>study-service</name>
     <description>study-service</description>
-
+    <modules>
+        <module>study-system</module>
+        <module>study-base</module>
+        <module>study-content</module>
+    </modules>
     <packaging>pom</packaging>
     <properties>
         <java.version>1.8</java.version>
